@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there! / Hola a todos! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave-reverse.gif" width="25"/>
 
-<!--
-**miguelotech/miguelotech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **MigueloTech**, a Software engineer based in Perú.
 
-Here are some ideas to get you started:
+I love turning ideas into software that solves real problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I'm not coding, you'll find me watching anime and going to the gym.
+
+### Fun Facts
+
+* I love coffee.
+
+
+
+
