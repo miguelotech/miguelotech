@@ -9,6 +9,8 @@ When I'm not coding, you'll find me watching anime and going to the gym.
 ### Fun Facts
 
 * I love coffee. ☕
+* I'm a gym rat 💪
+* and I love learning more and more. 🧠 
 
 
 
